@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Final Project", "Final Project\Final Project.vbproj", "{C0AEFBA7-BE90-4508-8CD9-8401ACD81E70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2A71A41C-C820-4946-A479-964592326177}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\myarray0.txt = ..\..\..\..\..\myarray0.txt
+		..\..\..\..\..\myarray1.txt = ..\..\..\..\..\myarray1.txt
+		..\..\..\..\..\myarray2.txt = ..\..\..\..\..\myarray2.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0AEFBA7-BE90-4508-8CD9-8401ACD81E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0AEFBA7-BE90-4508-8CD9-8401ACD81E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0AEFBA7-BE90-4508-8CD9-8401ACD81E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0AEFBA7-BE90-4508-8CD9-8401ACD81E70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
